@@ -23,7 +23,7 @@ nav-menu: true
 		</header>
 		<p>Obviously, still studying, even if not for too much: I should graduate around Fall 2021. </p>
 		<p>I have also started a collaboration with prof. Kato, of Chuo University, on Affective Computing. </p>
-		<p>And, as a plus, I'm trying to expand my knowledge of QML and, maybe, submit some paper about it (keep watching for me on this! 😉).</p>
+		<p>And, as a plus, I'm trying to expand my knowledge of QML and, maybe, submit some paper about it (keep watching for more on this! 😉).</p>
 	</div>
 </section>
 
