@@ -16,7 +16,7 @@ nav-menu: true
 			<h1>About Me</h1>
 		</header>
 		<p>Hi! My name is Leonardo. I am a 23 yo Data Science student with a degree in Physics: I do like to study and learn cool stuff. 🤓</p>
-		<p>My background is nice, but nothing too fancy: scientific Italian High School, exchange year in the USA and then Uni. Always studied with, not too brag, quite good results, even if sometimes pulling some all-nighters. 😪</p>
+		<p>My background is nice, but nothing too fancy: scientific Italian High School, exchange year in the USA and then Uni. Always studied with, not to brag, quite good results, even if sometimes pulling some all-nighters. 😪</p>
 		<p>Nowadays I like to delve into Data Science and AI stuff: ML algorithms, statistical modelling of phenomena and even crazier stuff, like Quantum ML. I could write boring stuff all day, but check out my <a href="http://localhost:4000/projects.html">projects</a> to see for yourself! 😄</p>
 		<header class="minor">
 			<h3>What I'm currently doing</h3>
