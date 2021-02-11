@@ -47,12 +47,13 @@ nav-menu: true
 		</header>
 		<p>Put together web scraping, distributed cloud computing and cool visualizations: that's what this project is all about.</p>
         <p>
-        Give a look at the repo, a paper about it and our cool visualization.
+        Give a look at the repo, a paper about it and our cool visualization. I also leave the handbook we presented to repeat the project: it should give an idea of the complexity of our endeavour.
         </p>
         <ul class="actions">
           <li><a href="https://github.com/LeonardoAlchieri/How-Tube-Popular" class="button">Github</a></li>
           <li><a href="assets/downloads/How_Tube_Popular.pdf" class="button">Paper</a></li>
           <li><a href="https://public.tableau.com/profile/leonardo4521#!/vizhome/HowTUBEGreat/START" class="button">Interactive Visualization</a></li>
+					<li><a href="assets/downloads/HANDBOOK_Data_Man.pdf" class="button">Handbook</a></li>
 				</ul>
 	</div>
 </section>
@@ -74,6 +75,28 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
+			<h2>Chinese Social Credit System</h2>
+		</header>
+		<p>I developed, with Mr. Pietro Bonardi, a nice review of everything known, which is not too much, about the Chinese Social Credit System, a dystopian thing implemented by the CPP where people are forbidden services if they "do not behave well". If you do not know anything about the subject, it is an interesting read. 😇</p>
+        <ul class="actions">
+          <li><a href="assets/downloads/Chinese_Social_Credit_System.pdf" class="button">Paper</a></li>
+				</ul>
+	</div>
+</section>
+<section id="one">
+	<div class="inner">
+		<header class="major">
+			<h2>Mushroom Classification</h2>
+		</header>
+		<p>Very simple project: develop some classification tasks on the famous Mushroom Dataset. The project was done using KNIME, which, I do not want to hide it, I found to be quite restrictive to work with. Still, the paper is somewhat interesting as to how make some baseline ML classifications. If, for some reason, you are interested in the KNIME workflow we developed, hit me up! 🤗</p>
+        <ul class="actions">
+          <li><a href="assets/downloads/Machine_Learning.pdf" class="button">Paper</a></li>
+				</ul>
+	</div>
+</section>
+<section id="one">
+	<div class="inner">
+		<header class="major">
 			<h2>Others</h2>
 		</header>
 		<p>These are just some examples: more boring and traditional projects are showcased on my Github repo: give it a visit! 😃</p>
@@ -82,4 +105,6 @@ nav-menu: true
 				</ul>
 	</div>
 </section>
+
+
 </div>
