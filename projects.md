@@ -60,6 +60,17 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
+			<h2>Glitches Classification in the Planck/HFI experiment using Neural Networks</h2>
+		</header>
+		<p>This is the end of my 3-years long B.Sc. in Physics: a data analysis, mostly using Python, where I cleaned and hand-labelled the satellite data, used to then trained a specific Convolutional Neural Networks. Nothing too fancy, but it was cool and it taught me so much about Machine Learning and its endless possibilities.</p>
+        <ul class="actions">
+          <li><a href="assets/downloads/Thesis.pdf" class="button">Thesis</a></li>
+				</ul>
+	</div>
+</section>
+<section id="one">
+	<div class="inner">
+		<header class="major">
 			<h2>Just News</h2>
 		</header>
 		<p>A state-of-the-art Natural Language Processing project. Like, really state of the art: the main technique used, called CADE, is a revolutionary method just published by a professor at Bicocca. 🤓</p>
